@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="cover-art" viewBox="0 0 440 680" role="img" aria-label="Wine bottle with score and price tags">
+        <ellipse cx="200" cy="650" rx="150" ry="14" fill="#e2d6c4" data-b="shadow"/>
+        <g data-b="bottle">
+          <path d="M140 640V330c0-60 44-86 44-140V60h52v130c0 54 44 80 44 140v310c0 8-6 14-14 14H154c-8 0-14-6-14-14z" fill="#6b1d2b"/>
+          <rect x="180" y="40" width="60" height="70" rx="4" fill="#6b1d2b"/><rect x="180" y="40" width="60" height="70" rx="4" fill="#000" opacity="0.3"/>
+          <rect x="160" y="420" width="100" height="120" rx="6" fill="#fffaf1"/>
+          <text x="210" y="470" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="13" letter-spacing="2" fill="#a57d33">RED</text>
+          <path d="M178 492h64M186 510h48" stroke="#cbbca8" stroke-width="4" stroke-linecap="round"/>
+        </g>
+        <g data-b="tag" data-o="236 150">
+          <path d="M236 150c40 10 70 40 92 82" fill="none" stroke="#8a7b78" stroke-width="2.5"/>
+          <g transform="rotate(14 360 270)">
+            <path d="M300 232h96a10 10 0 0 1 10 10v76a10 10 0 0 1-10 10h-96l-26-48z" fill="#fffaf1" stroke="#6b1d2b" stroke-width="3"/>
+            <circle cx="296" cy="280" r="6" fill="none" stroke="#8a7b78" stroke-width="2.5"/>
+            <text x="352" y="290" text-anchor="middle" font-family="Archivo, sans-serif" font-weight="800" font-size="46" fill="#6b1d2b">90</text>
+            <text x="352" y="314" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="13" letter-spacing="2" fill="#6b1d2b">POINTS</text>
+          </g>
+        </g>
+        <g data-b="tag" data-o="238 160">
+          <path d="M238 160c40 70 70 170 82 286" fill="none" stroke="#8a7b78" stroke-width="2.5"/>
+          <g transform="translate(40 0) rotate(-8 330 450)">
+            <path d="M288 412h86a10 10 0 0 1 10 10v64a10 10 0 0 1-10 10h-86l-24-42z" fill="#a57d33"/>
+            <circle cx="284" cy="454" r="6" fill="#f5efe4"/>
+            <text x="335" y="470" text-anchor="middle" font-family="Archivo, sans-serif" font-weight="800" font-size="46" fill="#fffaf1">$?</text>
+          </g>
+        </g>
+      </svg>

@@ -7,3 +7,5 @@ Projects: Can You Taste the Price?, token valuation thesis, FreshWise and FlowRi
 Built with HTML, CSS and JavaScript with OpenAI Codex assistance. The wine presentation is a credited team artifact. See the website's Credits & AI use and the wine repository for project-specific disclosures.
 
 Local preview: `python3 -m http.server 8770` from this folder. No build step is required.
+
+Brand assets: FreshWise and SALLAS logos supplied by the project team; FlowRing icon and wordmark sourced from https://www.flowring.app/. FlowRing wordmark is displayed as a static monochrome version.

@@ -47,3 +47,5 @@ dialog .course-identity{align-items:flex-start;gap:18px;padding:18px}dialog .cou
 .portrait{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center top;border-radius:50% 50% 3px 3px / 40% 40% 3px 3px}
 @media(max-width:800px){.portrait{height:auto;aspect-ratio:4/5}}
 @media(max-width:560px){.portrait{height:auto;aspect-ratio:4/5;border-radius:50% 50% 3px 3px / 40% 40% 3px 3px}}
+
+.career-direction{max-width:445px;border-left:2px solid var(--wine);padding:0 0 0 16px;margin:24px 0 16px}.career-direction p{font-size:14px;line-height:1.6;margin:0 0 14px;color:#554e47}.career-direction span{display:block;font-size:11px;color:var(--wine)}.career-direction strong{display:block;font-size:11px;font-weight:600;margin-top:4px}@media(max-width:560px){.career-direction p{font-size:13px}.career-direction{margin-top:20px}}

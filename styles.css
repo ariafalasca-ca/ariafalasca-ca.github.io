@@ -32,3 +32,5 @@
 .course-identity img{display:block;width:190px;height:auto;flex-shrink:0}.course-identity>div{border-left:1px solid #d4cfc5;padding-left:25px;font-size:11px;line-height:1.7}.course-identity strong{font-weight:600}.course-identity span{display:block;color:#645f57}.course-identity a{text-decoration:underline;text-underline-offset:3px}
 dialog .course-identity{align-items:flex-start;gap:18px;padding:18px}dialog .course-identity img{width:145px}dialog .course-identity>div{padding-left:18px;font-size:10px}
 @media(max-width:560px){.course-identity,dialog .course-identity{flex-direction:column;gap:16px;padding:19px}.course-identity>div,dialog .course-identity>div{border-left:0;border-top:1px solid #d4cfc5;padding:12px 0 0;width:100%}.course-identity img{width:190px}}
+
+.industry-context{border-left:2px solid #647f8d;padding:2px 0 2px 14px;margin:0 0 24px}.industry-context>span{display:block;font-size:8px;letter-spacing:1.2px;color:#526773}.industry-context>a{display:inline-block;font:20px var(--serif);margin:7px 0;color:#334e5d}.industry-context>p{font-size:11px;line-height:1.6;margin:0;color:#52616a}.source-note{font-size:11px!important}

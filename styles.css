@@ -12,3 +12,9 @@
 @media(max-width:560px){.official-flow{height:300px}.flowring-symbol{width:85px;height:85px}.freshwise-logo{max-height:125px}.fresh-visual{height:220px}}
 
 .flowring-symbol{border-radius:21px}
+
+/* A personal aside, grounded in the work beyond the projects. */
+.personal-note{display:grid;grid-template-columns:1fr 2fr;gap:35px;margin-top:32px;padding:22px 0;border-top:1px solid var(--line)}
+.personal-note>span{font-size:9px;letter-spacing:1.5px;color:#776c61;padding-top:4px}
+.personal-note p{font:20px/1.5 var(--serif);margin:0;max-width:620px}
+@media(max-width:560px){.personal-note{grid-template-columns:1fr;gap:10px}.personal-note p{font-size:19px}.contact .email{gap:25px;font-size:18px}}
